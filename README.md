@@ -34,11 +34,9 @@ Python | REACT
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </hr>
 
-<details>
-<summary>📊 Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=Priya96-sketch&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-</details>
+
  ## Visitor Count
  ![Visitor Count](https://profile-counter.glitch.me/{Priya96-sketch}/count.svg)
 
