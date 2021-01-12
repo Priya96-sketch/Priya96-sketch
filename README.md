@@ -7,12 +7,12 @@ Python | REACT
   
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />][Medium]
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 <br />
 <hr />
 
 
 - :woman_technologist: I’m currently learning React and Redux.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/priya-mondal-0b343b1a0/)  [Facebook](https://www.facebook.com/profile.php?id=100042698809475)
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I talk too much.
 - Feel free to star my Repos 😄
@@ -32,6 +32,7 @@ Python | REACT
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
 </br>
 </hr>
 
@@ -43,3 +44,4 @@ Python | REACT
 
 [twitter]: https://twitter.com/PriyaMondal
 [Medium]: https://priyapujamondal.medium.com/
+[LinkedIn](https://www.linkedin.com/in/priya-mondal-0b343b1a0/)
