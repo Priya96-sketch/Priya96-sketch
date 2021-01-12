@@ -1,4 +1,10 @@
-### Hi there 👋
+# [Priya Mondal]
+Python | REACT 
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+
+<p align="center">
+  <b><i>Let's connect! Find me on the web.</i></b>
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 
 
 - :woman_technologist: I’m currently learning React and Redux.
@@ -25,3 +31,5 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Priya96-sketch&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+[twitter]: https://twitter.com/PriyaMondal
