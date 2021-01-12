@@ -44,4 +44,4 @@ Python | REACT
 
 [twitter]: https://twitter.com/PriyaMondal
 [Medium]: https://priyapujamondal.medium.com/
-[LinkedIn](https://www.linkedin.com/in/priya-mondal-0b343b1a0/)
+[LinkedIn]: https://www.linkedin.com/in/priya-mondal-0b343b1a0/
