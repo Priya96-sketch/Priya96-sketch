@@ -4,7 +4,10 @@ Python | REACT
 
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter](https://twitter.com/PriyaMondal)
+  
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+<br />
+<hr />
 
 
 - :woman_technologist: I’m currently learning React and Redux.
@@ -32,3 +35,4 @@ Python | REACT
 
 <img src="https://github-readme-stats.vercel.app/api?username=Priya96-sketch&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+[Twitter](https://twitter.com/PriyaMondal)
