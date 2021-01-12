@@ -6,6 +6,7 @@ Python | REACT
   <b><i>Let's connect! Find me on the web.</i></b>
   
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img height="30" src="https://img.shields.io/badge/-Medium-000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />][Medium]
 <br />
 <hr />
 
@@ -22,7 +23,7 @@ Python | REACT
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -35,4 +36,8 @@ Python | REACT
 <hr />
 <img src="https://github-readme-stats.vercel.app/api?username=Priya96-sketch&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+ ## Visitor Count
+ ![Visitor Count](https://profile-counter.glitch.me/{Priya96-sketch}/count.svg)
+
 [twitter]: https://twitter.com/PriyaMondal
+[Medium]: https://priyapujamondal.medium.com/
