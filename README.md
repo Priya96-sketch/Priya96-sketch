@@ -41,6 +41,9 @@ Python | REACT
 
  ## Visitor Count
  ![Visitor Count](https://profile-counter.glitch.me/{Priya96-sketch}/count.svg)
+ 
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Priya96-sketch&" alt="priyamondal" /></p>
+
 
 [twitter]: https://twitter.com/PriyaMondal
 [Medium]: https://priyapujamondal.medium.com/
